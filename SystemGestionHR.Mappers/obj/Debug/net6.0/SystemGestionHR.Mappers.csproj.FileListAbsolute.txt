@@ -1,0 +1,17 @@
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\bin\Debug\net6.0\SystemGestionHR.Mappers.deps.json
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\bin\Debug\net6.0\SystemGestionHR.Mappers.dll
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\bin\Debug\net6.0\SystemGestionHR.Mappers.pdb
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\bin\Debug\net6.0\Data.dll
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\bin\Debug\net6.0\SystemGestionHR.ValueObjects.dll
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\bin\Debug\net6.0\Data.pdb
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\bin\Debug\net6.0\SystemGestionHR.ValueObjects.pdb
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\obj\Debug\net6.0\SystemGestionHR.Mappers.csproj.AssemblyReference.cache
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\obj\Debug\net6.0\SystemGestionHR.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\obj\Debug\net6.0\SystemGestionHR.Mappers.AssemblyInfoInputs.cache
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\obj\Debug\net6.0\SystemGestionHR.Mappers.AssemblyInfo.cs
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\obj\Debug\net6.0\SystemGestionHR.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\obj\Debug\net6.0\SystemGestionHR.Mappers.csproj.CopyComplete
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\obj\Debug\net6.0\SystemGestionHR.Mappers.dll
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\obj\Debug\net6.0\refint\SystemGestionHR.Mappers.dll
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\obj\Debug\net6.0\SystemGestionHR.Mappers.pdb
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.Mappers\obj\Debug\net6.0\ref\SystemGestionHR.Mappers.dll

@@ -1,0 +1,17 @@
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\bin\Debug\net6.0\Mappers.deps.json
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\bin\Debug\net6.0\Mappers.dll
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\bin\Debug\net6.0\Mappers.pdb
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\bin\Debug\net6.0\Data.dll
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\bin\Debug\net6.0\ValueObjects.dll
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\bin\Debug\net6.0\Data.pdb
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\bin\Debug\net6.0\ValueObjects.pdb
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\obj\Debug\net6.0\Mappers.csproj.AssemblyReference.cache
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\obj\Debug\net6.0\Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\obj\Debug\net6.0\Mappers.AssemblyInfoInputs.cache
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\obj\Debug\net6.0\Mappers.AssemblyInfo.cs
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\obj\Debug\net6.0\Mappers.csproj.CoreCompileInputs.cache
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\obj\Debug\net6.0\Mappers.csproj.CopyComplete
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\obj\Debug\net6.0\Mappers.dll
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\obj\Debug\net6.0\refint\Mappers.dll
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\obj\Debug\net6.0\Mappers.pdb
+C:\Users\laubr\source\repos\SystemGestionHR\Mappers\obj\Debug\net6.0\ref\Mappers.dll

@@ -1,0 +1,11 @@
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\bin\Debug\net6.0\SystemGestionHR.ValueObjects.deps.json
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\bin\Debug\net6.0\SystemGestionHR.ValueObjects.dll
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\bin\Debug\net6.0\SystemGestionHR.ValueObjects.pdb
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\obj\Debug\net6.0\SystemGestionHR.ValueObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\obj\Debug\net6.0\SystemGestionHR.ValueObjects.AssemblyInfoInputs.cache
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\obj\Debug\net6.0\SystemGestionHR.ValueObjects.AssemblyInfo.cs
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\obj\Debug\net6.0\SystemGestionHR.ValueObjects.csproj.CoreCompileInputs.cache
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\obj\Debug\net6.0\SystemGestionHR.ValueObjects.dll
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\obj\Debug\net6.0\refint\SystemGestionHR.ValueObjects.dll
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\obj\Debug\net6.0\SystemGestionHR.ValueObjects.pdb
+C:\Users\laubr\source\repos\SystemGestionHR\SystemGestionHR.ValueObjects\obj\Debug\net6.0\ref\SystemGestionHR.ValueObjects.dll
