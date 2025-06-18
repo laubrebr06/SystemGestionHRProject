@@ -38,7 +38,7 @@ To get started with this project, follow these steps:
 
 1.	Clonez le dépôt sur votre machine locale :
    
-git clone https://github.com/laubrebr06/SystemGestionHR.git
+git clone https://github.com/laubrebr06/SystemGestionHRProject.git
 
 2.	Accédez au répertoire du projet
    
